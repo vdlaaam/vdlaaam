@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Idelia
+- 👋 Hello, I’m Vivia
 - 👀 I’m interested in entrepreneurship, technology, and innovation
 - 🌱 I’m currently learning about business development and web programming that focus on front-end development
 - 💞️ I’m looking to collaborate on projects that combaine with business and technology
